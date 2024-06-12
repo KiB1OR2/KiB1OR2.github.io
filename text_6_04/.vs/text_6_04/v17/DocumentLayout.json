@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C\u8BED\u8A00\\text_6_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C083C35-B282-4BA9-BE59-19C078CE9CD2}|text_6_04\\text_6_04.vcxproj|G:\\C\u8BED\u8A00\\text_6_04\\text_6_04\\text_6_04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C083C35-B282-4BA9-BE59-19C078CE9CD2}|text_6_04\\text_6_04.vcxproj|solutionrelative:text_6_04\\text_6_04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C083C35-B282-4BA9-BE59-19C078CE9CD2}|text_6_04\\text_6_04.vcxproj|G:\\C\u8BED\u8A00\\text_6_04\\text_6_04\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C083C35-B282-4BA9-BE59-19C078CE9CD2}|text_6_04\\text_6_04.vcxproj|solutionrelative:text_6_04\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text_6_04.c",
+              "DocumentMoniker": "G:\\C\u8BED\u8A00\\text_6_04\\text_6_04\\text_6_04.c",
+              "RelativeDocumentMoniker": "text_6_04\\text_6_04.c",
+              "ToolTip": "G:\\C\u8BED\u8A00\\text_6_04\\text_6_04\\text_6_04.c",
+              "RelativeToolTip": "text_6_04\\text_6_04.c",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-12T00:18:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.c",
+              "DocumentMoniker": "G:\\C\u8BED\u8A00\\text_6_04\\text_6_04\\add.c",
+              "RelativeDocumentMoniker": "text_6_04\\add.c",
+              "ToolTip": "G:\\C\u8BED\u8A00\\text_6_04\\text_6_04\\add.c",
+              "RelativeToolTip": "text_6_04\\add.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-03T23:13:17.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
